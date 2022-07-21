@@ -1,0 +1,12 @@
+---
+title: "classtiiiiime"
+author: "Katrina Greene"
+date: "7/21/2022"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## lol
